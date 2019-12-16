@@ -1,40 +1,37 @@
- [
- "name":{ 
-      "name":"berg",
-      "height":"178",
-      "mass":"77",
-      "hair_color":"blendrnd",
-      "skin_color":"faigfyyftr",
-      "eye_color":"blue",
-      "birth_year":"1984",
-      "gender":"male",
-      
-     "name":"johnny",
-      "height":"175",
-      "mass":"85",
-      "hair_color":"brown",
-      "skin_color":"fair",
-      "eye_color":"yellow",
-      "birth_year":"1983",
-      "gender":"male",
-      
-      "name":"Lisa",
-      "height":"188",
-      "mass":"97",
-      "hair_color":"black",
-      "skin_color":"fair",
-      "eye_color":"brown",
-      "birth_year":"1990",
-      "gender":"female",
-      
-      "name":"rosy",
-      "height":"145",
-      "mass":"66",
-      "hair_color":"grey",
-      "skin_color":"fair",
-      "eye_color":"black",
-      "birth_year":"1988",
-      "gender":"female",
-      
-   }
-   ]
+ {
+  "clients": [
+    {
+      "id": "59761c23b30d971669fb42ff",
+      "isActive": true,
+      "age": 36,
+      "name": "Dunlap Hubbard",
+      "gender": "male",
+      "company": "CEDWARD",
+      "email": "dunlaphubbard@cedward.com",
+      "phone": "+1 (890) 543-2508",
+      "address": "169 Rutledge Street, Konterra, Northern Mariana Islands, 8551"
+    },
+    {
+      "id": "59761c233d8d0f92a6b0570d",
+      "isActive": true,
+      "age": 24,
+      "name": "Kirsten Sellers",
+      "gender": "female",
+      "company": "EMERGENT",
+      "email": "kirstensellers@emergent.com",
+      "phone": "+1 (831) 564-2190",
+      "address": "886 Gallatin Place, Fannett, Arkansas, 4656"
+    },
+    {
+      "id": "59761c23fcb6254b1a06dad5",
+      "isActive": true,
+      "age": 30,
+      "name": "Acosta Robbins",
+      "gender": "male",
+      "company": "ORGANICA",
+      "email": "acostarobbins@organica.com",
+      "phone": "+1 (882) 441-3367",
+      "address": "697 Linden Boulevard, Sattley, Idaho, 1035"
+    }
+  ]
+}
