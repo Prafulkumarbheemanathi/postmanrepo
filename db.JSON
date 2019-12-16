@@ -1,0 +1,40 @@
+ [
+ "name":{ 
+      "name":"berg",
+      "height":"178",
+      "mass":"77",
+      "hair_color":"blendrnd",
+      "skin_color":"faigfyyftr",
+      "eye_color":"blue",
+      "birth_year":"1984",
+      "gender":"male",
+      
+     "name":"johnny",
+      "height":"175",
+      "mass":"85",
+      "hair_color":"brown",
+      "skin_color":"fair",
+      "eye_color":"yellow",
+      "birth_year":"1983",
+      "gender":"male",
+      
+      "name":"Lisa",
+      "height":"188",
+      "mass":"97",
+      "hair_color":"black",
+      "skin_color":"fair",
+      "eye_color":"brown",
+      "birth_year":"1990",
+      "gender":"female",
+      
+      "name":"rosy",
+      "height":"145",
+      "mass":"66",
+      "hair_color":"grey",
+      "skin_color":"fair",
+      "eye_color":"black",
+      "birth_year":"1988",
+      "gender":"female",
+      
+   }
+   ]
