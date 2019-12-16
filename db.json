@@ -32,6 +32,39 @@
       "email": "acostarobbins@organica.com",
       "phone": "+1 (882) 441-3367",
       "address": "697 Linden Boulevard, Sattley, Idaho, 1035"
+    },
+   {
+      "id": "4",
+      "isActive": true,
+      "age": 35,
+      "name": " Robbins",
+      "gender": "male",
+      "company": "ORGANICA",
+      "email": "acostarobbins@organica123.com",
+      "phone": "+1 (882) 441-3254",
+      "address": "697 Londennn Boulevard, Sattley, gtrwfg, 1036"
+    },
+   {
+      "id": "5",
+      "isActive": true,
+      "age": 45,
+      "name": "Ethiopia",
+      "gender": "male",
+      "company": "USTIN",
+      "email": "acostarobbindftr1s@organica.com",
+      "phone": "+1 (882) 485-3367",
+      "address": "697 Lindenhsgbhdghsgfh, Sattlouyy, Igredr, 1037"
+    },
+   {
+      "id": "6",
+      "isActive": true,
+      "age": 48,
+      "name": "Americoid",
+      "gender": "male",
+      "company": "amazon",
+      "email": "acoshtepp@organica4879.com",
+      "phone": "+1 (882) 556-3367",
+      "address": "663 Lrdef, Sattley, Idhre, 1039"
     }
   ]
 }
